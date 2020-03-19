@@ -1,0 +1,6 @@
+
+.answers{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-template-areas:"ans1 ans2" "ans3 ans4";
+}
